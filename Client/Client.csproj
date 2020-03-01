@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="rage-sharp">
+      <HintPath>..\..\..\RAGEMP\dotnet\rage-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="del &quot;D:\RAGEMP\server-files\client_packages\*.*&quot; /Q&#xD;&#xA;for /R %25CD%25 %25%25i in (*.cs) do (&#xD;&#xA;	xcopy %25%25i &quot;D:\RAGEMP\server-files\client_packages\&quot; /Q /Y /EXCLUDE:exclude.txt&#xD;&#xA;)" />
+  </Target>
+
+</Project>
