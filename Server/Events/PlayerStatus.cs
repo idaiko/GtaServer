@@ -15,7 +15,7 @@ namespace Server.Events
         [ServerEvent(Event.PlayerSpawn)]
         public void OnPlayerSpawn(Client player)
         {
-            NAPI.Chat.SendChatMessageToAll("Spawn message");
+            NAPI.Chat.SendChatMessageToAll("pohel naxyi blat");
         }
 
         [ServerEvent(Event.PlayerDisconnected)]
