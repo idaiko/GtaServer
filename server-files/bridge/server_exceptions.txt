@@ -228,3 +228,14 @@ System.IO.FileNotFoundException: Could not load the specified file.
 File name: 'System.Runtime'
    at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
 =========================================================
+
+==================[01.03.2020 21:23:55]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 21:33:55]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================

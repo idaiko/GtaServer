@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#RageLogs
+server-files/bridge/server_logs.txt
+server-files/bridge/server_exceptions.txt
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
