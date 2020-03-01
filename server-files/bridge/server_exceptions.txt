@@ -130,3 +130,101 @@ System.IO.FileNotFoundException: Could not load the specified file.
 File name: 'System.Runtime'
    at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
 =========================================================
+
+==================[01.03.2020 18:12:10]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:12:45]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:15:43]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:19:57]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:24:33]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:32:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:36:49]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.03.2020 18:47:39]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 18:59:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 19:06:15]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.03.2020 19:11:49]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 19:16:33]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.03.2020 19:37:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 19:38:16]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 19:38:40]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[01.03.2020 19:41:59]==================
+System.Reflection.TargetParameterCountException: Parameter count mismatch.
+   at object[] System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(object obj, BindingFlags invokeAttr, Binder binder, object[] parameters, CultureInfo culture)
+=========================================================
+
+==================[01.03.2020 20:01:11]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================

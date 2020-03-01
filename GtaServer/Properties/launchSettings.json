@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "GtaServer": {
-      "commandName": "Executable",
-      "executablePath": "D:\\RAGEMP\\server-files\\server.exe",
-      "workingDirectory": "D:\\RAGEMP\\server-files"
-    }
-  }
-}

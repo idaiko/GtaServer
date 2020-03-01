@@ -1,2 +1,0 @@
-# GtaServer
-Gta Server

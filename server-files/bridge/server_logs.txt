@@ -325,3 +325,230 @@ FivePalmRP: loaded 1 remote event(s)
 FivePalmRP: Server has been loaded!
 -> Resource FivePalmRP started!
 Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:12:03
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 2 server event(s)
+FivePalmRP: loaded 3 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:12:40
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 2 server event(s)
+FivePalmRP: loaded 3 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:15:41
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 2 server event(s)
+FivePalmRP: loaded 3 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:19:55
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 2 server event(s)
+FivePalmRP: loaded 3 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:24:30
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 2 server event(s)
+FivePalmRP: loaded 3 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:32:45
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Player Disconnected!!!
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:47:37
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 18:59:41
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Player connected: Jack Hunter
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 19:11:48
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Player connected: Jack Hunter
+[07:15:38][0]Jack Hunter: asfas
+[07:16:11][0]Jack Hunter: safasgagsags
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 19:36:58
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 19:38:14
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 19:38:38
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..
+Player connected: Jack Hunter
+Initializing Bootstrapper.dll (0.3.7.0)..
+-> SERVER STARTED AT 01.03.2020 20:01:10
+Loaded 451 entries from vehicleData.json
+Loading resources..
+-> Starting FivePalmRP resource..
+FivePalmRP: loading scripts.. found 1 script(s)
+FivePalmRP: instantiating Server.Server..
+FivePalmRP: instantiating Server.Logger.ClientLogger..
+FivePalmRP: instantiating Server.Events.PlayerStatus..
+FivePalmRP: loading server events.. found 1 server event(s)
+FivePalmRP: loading server events.. found 3 server event(s)
+FivePalmRP: loaded 4 server events(s)
+FivePalmRP: loading remote events.. found 1 remote event(s)
+FivePalmRP: loaded 1 remote event(s)
+FivePalmRP: Server has been loaded!
+-> Resource FivePalmRP started!
+Started! Waiting for connections..

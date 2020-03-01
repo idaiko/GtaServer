@@ -1,9 +1,9 @@
 {
-	"maxplayers" : 100,
+	"maxplayers" : 5,
 	"name" : "RAGE:MP Unofficial server", 
 	"gamemode" : "roleplay", 
 	"stream-distance" : 500.0,
-	"announce" : false,
+	"announce" : true,
 	"csharp" : "enabled",
 	"port": 22005
 }

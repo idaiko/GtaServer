@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="meta.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="meta.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Bootstrapper">
+      <HintPath>..\server-files\bridge\runtime\Bootstrapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="del &quot;$(SolutionDir)server-files\bridge\resources\$(SolutionName)\*.*&quot; /Q&#xD;&#xA;xcopy &quot;$(OutDir)*&quot; &quot;$(SolutionDir)server-files\bridge\resources\$(SolutionName)\*.*&quot; /Q /D /Y&#xD;&#xA;" />
+  </Target>
+
+</Project>
